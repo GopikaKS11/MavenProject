@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-15T12:20:51 IST" name="Default suite" finished-at="2023-08-15T12:21:02 IST" duration-ms="11067">
+    <groups>
+    </groups>
+    <test started-at="2023-08-15T12:20:51 IST" name="Default test" finished-at="2023-08-15T12:21:02 IST" duration-ms="11067">
+      <class name="testpkg.Logintest">
+        <test-method is-config="true" signature="websiteOpen()[pri:0, instance:testpkg.Logintest@2b40ff9c]" started-at="2023-08-15T12:20:51 IST" name="websiteOpen" finished-at="2023-08-15T12:21:00 IST" duration-ms="8966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteOpen -->
+        <test-method signature="verifyLoginnWithValidCred()[pri:0, instance:testpkg.Logintest@2b40ff9c]" started-at="2023-08-15T12:21:00 IST" name="verifyLoginnWithValidCred" finished-at="2023-08-15T12:21:02 IST" duration-ms="2048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginnWithValidCred -->
+        <test-method is-config="true" signature="websiteClose()[pri:0, instance:testpkg.Logintest@2b40ff9c]" started-at="2023-08-15T12:21:02 IST" name="websiteClose" finished-at="2023-08-15T12:21:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteClose -->
+      </class> <!-- testpkg.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
